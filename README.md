@@ -162,7 +162,3 @@ JDRouterPush
 3. [配置消息通道](https://sct.ftqq.com/forward) ，选择方糖服务号，保存即可。
 4. 推送效果展示
    <img src="docs/IMG/ysxg1.jpg" style="zoom:33%;" /> <img src="docs/IMG/ysxg2.jpg" style="zoom:33%;" /> <img src="docs/IMG/ysxg3.jpg" style="zoom:33%;" />
-
-
-
-
